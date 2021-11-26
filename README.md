@@ -1,2 +1,16 @@
 # UAVMTD
 UAV Maize Tassels Detection dataset
+## Introduction
+Maize tassel is a key phenotypic trait in varieties selection, detasseling arrangement for seed maize fields, and its associated tasseling time is also a key growth stage in maize development. In order to propose a detecton method suitable for complex scenes and estimate tasseling time of different varieties, we created this dataset
+that including different maize varieties, light conditions, tasseling stages.
+## Highlights
+* with 100 UAV images acquired during 2019, 2020 in Hebi, Henan Province, China.
+* In 2019, multi-temporal iamges of 4 days at the same field were collcted.
+* images were acquired using DJI ZENMUSE X4s and DJI ZENMUSE X5s cameras mounted on the DJI Inspire 2 drone at a flight altitude of 20m.
+* There are 23768 manually labeled maize tassels with the corresponding bounding boxes, including 17254 in 2019 and 6514 in 2020.
+* The dataset is constantly updated, including samples from different planting management modes and different planting ecological region.  
+![image](https://github.com/Xulizzz/UAVMTD/blob/main/samples%20under%20different%20conditions.png)
+## Download
+[Download from Google drive](https://drive.google.com/drive/folders/1VeoZWTCngvlwnoIjsfQ8Df5B3ohGaZ5r?usp=sharing)
+## Citation
+If you use the dataset for your research, please do not forget to quote:
