@@ -11,7 +11,7 @@ that including different maize varieties, light conditions, tasseling stages.
 * The dataset is constantly updated, including samples from different planting management modes and different planting ecological region.  
 ![image](https://github.com/Xulizzz/UAVMTD/blob/main/samples%20under%20different%20conditions.png)
 ## Download
-* [Download from Google drive](https://drive.google.com/drive/folders/1q8sHwGm_Dh--vCz6DRHVDKgBT38ymNye?usp=sharing)
+* [Download from Google drive]
 * [Download from Baidu yun](https://pan.baidu.com/s/1MK6REJNplECYwaXwfKDC4g)
 ## Details of our Dataset
 * The name of jpg and txt was composed of "field location", "flight altitude", "acquisition time" and "picture number".
