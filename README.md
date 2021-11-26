@@ -11,6 +11,12 @@ that including different maize varieties, light conditions, tasseling stages.
 * The dataset is constantly updated, including samples from different planting management modes and different planting ecological region.  
 ![image](https://github.com/Xulizzz/UAVMTD/blob/main/samples%20under%20different%20conditions.png)
 ## Download
-[Download from Google drive](https://drive.google.com/drive/folders/1VeoZWTCngvlwnoIjsfQ8Df5B3ohGaZ5r?usp=sharing)
+* [Download from Google drive](https://drive.google.com/drive/folders/1VeoZWTCngvlwnoIjsfQ8Df5B3ohGaZ5r?usp=sharing)
+* [Baidu yun](https://pan.baidu.com/s/1MK6REJNplECYwaXwfKDC4g)
+## Data structure
+
+* every jpg has a corresponding txt, which records location of bounding boxes with five columns. 
+* The first column is the name of the object.
+* The remaining four columns are the location information of bounding boxes with the format [x_min,y_min, x_max,y_max]. 
 ## Citation
 If you use the dataset for your research, please do not forget to quote:
